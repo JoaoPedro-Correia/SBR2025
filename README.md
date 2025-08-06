@@ -5,4 +5,7 @@ Recent advancements in robotics have positively impacted the adoption of autonom
 ![image](fluxograma.png)
 That is an illustration of the five steps applied to generate the video summaries.
 
+## Dataset
+This work use the dataset Oxford RobotCar Dataset. The full dataset is available for download at: http://robotcar-dataset.robots.ox.ac.uk
+
 # RUN
