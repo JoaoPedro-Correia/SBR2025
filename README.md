@@ -9,4 +9,4 @@ That is an illustration of the five steps applied to generate the video summarie
 This work use the dataset Oxford RobotCar Dataset. The full dataset is available for download at: http://robotcar-dataset.robots.ox.ac.uk
 
 # RUN
-First you need run the cels in **pip install** andrestart the kernel, after you need run the **imports**. Finally, the code pipeline and model LlaVa are in **PipeLine LlaVa**: 'Model', 'Functions', 'Pepeline', 'Run'.
+First you need run the cells in **pip install** and restart the kernel, and after run the **imports**. Finally, the pipeline code and LlaVa model are in **PipeLine LlaVa**, run consecutively the following cells: 'Model', 'Functions', 'Pepeline', 'Run'.
